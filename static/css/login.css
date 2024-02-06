@@ -1,0 +1,19 @@
+.left_half{
+    width: 50%;
+    float: left;
+    margin-top: 200px;
+    text-align: center;
+}
+.right_half{
+    width: 50%;
+    float: left;
+}
+
+input {
+    margin: 10px 0 0 0;
+}
+
+/*header{*/
+/*    width:50%;*/
+/*    text-align: center;*/
+/*}*/
